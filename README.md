@@ -2,6 +2,10 @@
 
 Um aplicativo Android nativo desenvolvido em **Kotlin** com **Jetpack Compose** que fornece uma interface elegante e funcional para contagem regressiva de tempo.
 
+<p align="center">
+    <img src="/screenshots/countdown.png"/>
+</p>
+
 ## 📋 Descrição
 
 CountDown é um aplicativo de contagem regressiva minimalista e intuitivo. Oferece uma experiência visual moderna com um timer digital em estilo retrô, perfeito para gerenciar timeouts, pausas ou qualquer atividade que exija controle de tempo.
